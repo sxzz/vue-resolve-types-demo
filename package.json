@@ -1,0 +1,15 @@
+{
+  "name": "babel-vue-resolve-types",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vue/babel-plugin-resolve-type": "latest",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.3",
+    "vite": "^4.4.9"
+  }
+}
